@@ -11,10 +11,8 @@ https://mateusz2026.github.io/omelette-recipe/
 - HTML5
 - CSS3
 - Flexbox
-- Mobile-first workflow
 
 ## 📱 Features
-- Responsive design (mobile & desktop)
 - Clean and readable layout
 - Styled sections (ingredients, instructions, nutrition)
 - Good typography and spacing
